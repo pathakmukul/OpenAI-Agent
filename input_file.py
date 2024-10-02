@@ -1,0 +1,8 @@
+# input_file.py
+
+# This is your task prompt, stored as a string.
+# user_task = """
+# Calculate the sum of the numbers 2, 5, and 2.2, divide the total sum by 3 to find the final number, use the final number to determine how many hamburgers should appear in the image, generate an image of the hamburgers in the style of the painter of the most famous piece in the Louvre Museum, generate HTML code to display the image using the URL, add a thick CSS frame to the image and center it, save the HTML code as artpiece.html in the current working directory (cwd), generate a second image from the tallest building in a city associated with a big fruit taken by a 1950s photographer, determine the number of people in the second image by dividing the number of Titanic survivors by 450 and rounding down to the nearest whole number, add the second image to the same HTML code as the first image, save the updated HTML code as artpiece.html in the cwd, style the HTML code to look like a 1950s website with extremely good readability using CSS, save the styled HTML code as artpiece.html in the cwd, modify the HTML to display the images side by side in the center of the page and add captions to both images, and save the final HTML code again as artpiece.html in the cwd.
+# """
+
+user_task = """ for the csv file at /Users/mukulpathak/AGENT/Tall_Building_Inventory.csv, load it and lmk the height of top 5 tallest buildings"""
